@@ -9,7 +9,7 @@ This job simulation consists of two main tasks:
 
 This task involves scraping British Airways customer reviews from [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways/page/1/?sortby=post_date%3ADesc&pagesize=10), cleaning and preprocessing the data, and applying **unsupervised machine learning techniques**, specifically **Latent Dirichlet Allocation (LDA)**, to identify the most prevalent customer concerns. The findings are presented in a **single PowerPoint slide**.
 
-![ustomer Review Insights](https://github.com/IfeanyiEmeagi/British-Airways-Customer-Feedback-Reviews/blob/5a95cb4c8ae9338188d16b44a8c7e69cc85b80db/image/topic_modelling.png)
+![Customer Review Insights](https://github.com/IfeanyiEmeagi/British-Airways-Customer-Feedback-Reviews/blob/5a95cb4c8ae9338188d16b44a8c7e69cc85b80db/image/topic_modelling.png)
 
 ### **Tasks Implemented**
 
@@ -23,7 +23,7 @@ This task involves scraping British Airways customer reviews from [Skytrax](http
 - Initially experimented with **five topics**, but due to overlapping insights, **three topics** were selected as the optimal number.
 - **Visualized** insights using the **pyLDAviz** library.
 
-![ustomer Review Insights](https://github.com/IfeanyiEmeagi/British-Airways-Customer-Feedback-Reviews/blob/5a95cb4c8ae9338188d16b44a8c7e69cc85b80db/image/topic_modelling.png)
+![Top Modelling Viz](https://github.com/IfeanyiEmeagi/British-Airways-Customer-Feedback-Reviews/blob/3dc8222d010532308aabfe2cd025994d68eb36b0/image/Topic%20Modelling%20Visualization.png)
 
 ---
 
