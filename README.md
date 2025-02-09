@@ -1,6 +1,6 @@
 # **British Airways Data Science Job Simulation on Forage**
 
-This job simulation consists of two main tasks:
+The job simulation consists of two main tasks:
 
 - **Customer Review Insights**
 - **Predictive Modeling on Customer Buying Behavior**
